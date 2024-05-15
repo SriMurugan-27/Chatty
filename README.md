@@ -1,5 +1,3 @@
-![Welcome](https://media.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif)
-
 
 ![Login](https://github.com/SriMurugan-27/Chatty/assets/104995720/1483cfd6-6a0b-4a3d-be29-020c08df48d1)
 ![Register](https://github.com/SriMurugan-27/Chatty/assets/104995720/5ae171da-fc87-417a-b075-22301fd4d646)
