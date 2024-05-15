@@ -1,10 +1,7 @@
 ![Welcome](https://media.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif)
 
 
-![Login!](https://www.dropbox.com/scl/fi/ruih1zq1qpa403lglsjbu/Login.png?rlkey=g630bv0ubc7r389xdcc1qynl6&st=6ztdqqeb&dl=0)
-
-![Register](https://www.dropbox.com/scl/fi/6s2nlbkf958e6nxxqiu67/Register.png?rlkey=dlbusu39dbb0y277eeqgu5xoq&st=fc2kb081&dl=0)
-
-![User Interface](https://www.dropbox.com/scl/fi/85i65umu31qfkssohbs1n/UI.png?rlkey=tfbj6d90cvcbtvvxjfewfw9zc&st=57w7rz54&dl=0)
-
-![ChatBox](https://www.dropbox.com/scl/fi/5tyrdxhxq1ussexsh3qqn/ChatBox.png?rlkey=px8w3444w351zqsxhp76b2odf&st=ppdzj76l&dl=0)
+![Login](https://github.com/SriMurugan-27/Chatty/assets/104995720/1483cfd6-6a0b-4a3d-be29-020c08df48d1)
+![Register](https://github.com/SriMurugan-27/Chatty/assets/104995720/5ae171da-fc87-417a-b075-22301fd4d646)
+![UI](https://github.com/SriMurugan-27/Chatty/assets/104995720/3ca4dc66-49ad-4d87-b272-a6582789423a)
+![ChatBox](https://github.com/SriMurugan-27/Chatty/assets/104995720/5d7e6cd6-0365-49a3-a849-d341f3011191)
